@@ -13,8 +13,16 @@ https://github.com/webzol/kit
 
 4.专题做成了卡片模式
 
+5.增加了首页文章摘要
 
+## 2018年9月更新记录
 
+1.修复了首页轮播指示点问题,由以前的横向变为竖向
+
+2.详情页图片变为了圆角
+
+![欣赏](http://pddtif2jb.bkt.clouddn.com/wp-content/uploads/2018/09/2018090109495137.jpg?imageView2/2/w/1024#)
+![欣赏](http://pddtif2jb.bkt.clouddn.com/wp-content/uploads/2018/09/2018090109495068.jpg?imageView2/2/w/1024#)
 # 为了让小白新手更好的使用小程序，以下由晗绪小童学做了详细的教程 
 https://www.kancloud.cn/hnxeguo/wpforwx
 
