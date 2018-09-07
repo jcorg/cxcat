@@ -28,8 +28,20 @@ https://gitee.com/izol/cxcat
 
 2.详情页图片变为了圆角
 
-![欣赏](http://pddtif2jb.bkt.clouddn.com/wp-content/uploads/2018/09/2018090109495137.jpg?imageView2/2/w/1024#)
-![欣赏](http://pddtif2jb.bkt.clouddn.com/wp-content/uploads/2018/09/2018090109495068.jpg?imageView2/2/w/1024#)
+## 2018年9月2次更新记录
+
+1.文章首页摘要已经显示为2行
+
+2.历史文章点进去空白问题已经解决
+
+## 关于文章展示2行摘要我要分享一个技术点
+
+1.用了截取的方法xx.substring(0,32)
+
+2.32为你要截取的长度以及你要在哪里结束。需要改进的可以去看看
+
+3.截取的代码在index.js里面，喜欢的可以随意折腾
+
 # 为了让小白新手更好的使用小程序，以下由晗绪小童学做了详细的教程 
 https://www.kancloud.cn/hnxeguo/wpforwx
 
@@ -289,5 +301,3 @@ https://github.com/iamxjb/winxin-app-watch-life.net
 5.升级最新的微信小程序富文本解析组件wxParse（https://github.com/icindy/wxParse）
 
 升级的详细说明见：https://www.watch-life.net/wordpress/wordpress-weixin-1-5.html
-
-
