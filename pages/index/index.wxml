@@ -43,7 +43,7 @@
             <view class="food-bg"></view>
           </view>
         <!-- 文章摘要 -->
-         <view class="list-content">{{(item.excerpt.rendered)}}.......</view>
+         <view class="list-content">{{(item.excerpt.rendered)}}</view>
         <!-- 文章时间 -->
           <view class="food-desc">
               <view class="entry-date">

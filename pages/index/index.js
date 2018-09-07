@@ -186,7 +186,9 @@ Page({
                     postsList: self.data.postsList.concat(response.data.map(function (item) {
                       var strdate = item.date
                       var excerpt = item.excerpt.rendered
-                      item.excerpt.rendered = excerpt.replace(/\[&hellip;\]/ig, '')
+                      item.excerpt.rendered = excerpt.replace(/\[&hellip;\]/ig, '......');
+                      item.excerpt.rendered = item.excerpt.rendered.replace(/&#8221;/g, '"');
+                      item.excerpt.rendered = item.excerpt.rendered.substring(0,32)+"......"
                         if (item.category_name != null) {
 
                             item.categoryImage = "../../images/category.png";
