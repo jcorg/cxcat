@@ -28,7 +28,7 @@
     </view>
     <view style="display:{{ijiRead?'block':'none'}};">
         <view class="log-list ijiLogList" wx:if="{{readLogs.length>0}}">
-            <view catchtap="redictDetail" class="log-items ijilogItems" id="{{item.id}}" index="{{index}}" style="background-image: url('{{item[2]}}');" wx:for="{{readLogs}}" wx:key="id">
+            <view catchtap="redictDetail" class="log-items ijilogItems" id="{{item[0]}}" index="{{index}}" style="background-image: url('{{item[2]}}');" wx:for="{{readLogs}}" wx:key="id">
                 <text class="ijiLogTittle">{{item[1]}}</text>
             </view>
         </view>
@@ -41,7 +41,7 @@
             <view class="ijiCommentLogList">
                 <view catchtap="redictDetail" class="ijiCommentLogItems" id="{{item[0]}}" index="{{index}}" wx:for="{{keepLogs}}" wx:key="id">
                     <view class="ijiLogThumb" style="background-image: url('{{item[2]}}');"></view>
-                    <text class="log-text">{{item[1]}}</text>
+                    <text class="ijiLogTittle">{{item[1]}}</text>
                 </view>
             </view>
         </view>
