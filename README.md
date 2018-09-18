@@ -7,6 +7,10 @@ https://github.com/webzol/kit
 # 码云下载地址
 https://gitee.com/izol/cxcat
 
+# 联系Kit
+
+![Kit私人微信](http://cxcat.com/wp-content/uploads/2018/09/webwxgetmsgimg.png)
+
 ##  注意问题
 1.摘要更新了插件,使用的话必须使用我修改的插件文件，否则出现首页空白的问题
 
