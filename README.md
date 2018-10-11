@@ -10,7 +10,7 @@ https://gitee.com/izol/cxcat
 
 # 联系Kit
 
-![Kit私人微信](http://cxcat.com/wp-content/uploads/2018/09/webwxgetmsgimg.pngw width="500" hegiht="313" align=center)
+![Kit私人微信](http://cxcat.com/wp-content/uploads/2018/09/webwxgetmsgimg.pngw)
 
 # 小程序微信交流群
 
