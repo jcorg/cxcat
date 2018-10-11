@@ -8,9 +8,7 @@ https://github.com/webzol/kit
 # 码云下载地址
 https://gitee.com/izol/cxcat
 
-# 联系Kit
 
-![Kit私人微信] (http://cxcat.com/wp-content/uploads/2018/09/webwxgetmsgimg.png)
 
 # 小程序微信交流群
 
