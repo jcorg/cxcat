@@ -10,7 +10,13 @@ https://gitee.com/izol/cxcat
 
 # 联系Kit
 
-![Kit私人微信](http://cxcat.com/wp-content/uploads/2018/09/webwxgetmsgimg.png)
+![Kit私人微信](http://cxcat.com/wp-content/uploads/2018/09/webwxgetmsgimg.pngw width="500" hegiht="313" align=center)
+
+# 小程序微信交流群
+
+![Kit私人微信](http://pddtif2jb.bkt.clouddn.com/wp-content/uploads/2018/08/2018101114074192.jpeg?imageView2/2/w/500#)
+
+
 
 ##  注意问题
 1.摘要更新了插件,使用的话必须使用我修改的插件文件，否则出现首页空白的问题
