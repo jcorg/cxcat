@@ -15,6 +15,11 @@ https://gitee.com/izol/cxcat
 ![Kit私人微信](http://pddtif2jb.bkt.clouddn.com/wp-content/uploads/2018/08/2018101114074192.jpeg?imageView2/2/w/500#)
 
 
+## 微信群已满(添加微信)
+
+83874696 拉你进群
+
+
 
 ##  注意问题
 1.摘要更新了插件,使用的话必须使用我修改的插件文件，否则出现首页空白的问题
