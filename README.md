@@ -15,9 +15,9 @@ https://gitee.com/izol/cxcat
 ![Kit私人微信](http://pddtif2jb.bkt.clouddn.com/wp-content/uploads/2018/08/2018101114074192.jpeg?imageView2/2/w/500#)
 
 
-## 微信群已满(添加微信)
+## 微信群已满(添加微信 83874696 )
 
-83874696 拉你进群
+# 拉你进群
 
 
 
