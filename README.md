@@ -27,6 +27,8 @@ https://gitee.com/izol/cxcat
 2.插件地址https://github.com/webzol/cxcatapi
 
 
+## 2019继续更新 忙完了上代码 请期待
+
 ## 2018年9月2次更新记录
 
 1.文章首页摘要已经显示为2行
