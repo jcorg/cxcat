@@ -3,7 +3,7 @@
 
 # WordPress版微信小程序 猫小镇开源地址
 # 个人网站
-http:www.aihack.cn
+http://www.aihack.cn
 
 # 小程序ID：wxe61b785946958cc7
 # 欢迎添加更好的体验
