@@ -2,6 +2,11 @@
 ![猫小镇小程序欣赏](https://cdn.cxcat.com/wp-content/uploads/2018/12/1545701863-256.jpg?imageView2/2/w/1024#)
 
 # WordPress版微信小程序 猫小镇开源地址
+# 个人网站
+http:www.aihack.cn
+
+# 小程序ID：wxe61b785946958cc7
+# 欢迎添加更好的体验
 
 # git下载地址
 https://github.com/webzol/kit
