@@ -79,14 +79,14 @@
 5.增加了首页文章摘要
 
 # 为了让小白新手更好的使用小程序，以下由晗绪小童学做了详细的教程 
-https://www.kancloud.cn/hnxeguo/wpforwx
-
-![unear实验室小程序欣赏](https://cxcat.com/wp-content/uploads/2018/07/un.jpg)
+> https://www.kancloud.cn/hnxeguo/wpforwx
+<div align=center>
+ <img width = '300' height ='300' src ="https://cxcat.com/wp-content/uploads/2018/07/un.jpg"/></div>
+<div align=center>
+ [unear实验室小程序欣赏]
+ </div>
 
 # 以下是wordpress小程序开源者——守望轩教程以及的历程
-![wordpress微信小程序](https://www.watch-life.net/images/2017/06/winxinapp-wordpress-watch-life-new-700.jpg)
-
-![wordpress微信小程序](https://www.watch-life.net/images/wordpresswinxinapp700.png) 
 
 # 功能清单：
 
