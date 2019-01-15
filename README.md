@@ -1,9 +1,10 @@
 # 关于本小程序
 
 > 本次小程序的修改基于开源的wordpress小程序"守望轩",本着开源的精神会一直更新下去。感谢大家的支持，希望越做越好。
-
 <div align=center>
- ![猫小镇小程序欣赏](https://cdn.cxcat.com/wp-content/uploads/2018/12/1545701863-256.jpg?imageView2/2/w/1024#)
+ <img width = '150' height ='150' src ="https://cdn.cxcat.com/wp-content/uploads/2018/12/1545701863-256.jpg?imageView2/2/w/1024#"/></div>
+<div align=center>
+ ![猫小镇小程序欣赏]()
  </div>
 
 # WordPress版微信小程序 猫小镇开源地址
