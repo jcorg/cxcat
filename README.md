@@ -1,5 +1,5 @@
 ## 关于本小程序
-
+#### 2019继续更新 忙完了上代码 请期待:star:
 > 本次小程序的修改基于开源的wordpress小程序"守望轩",本着开源的精神会一直更新下去。感谢大家的支持，希望越做越好。
 <div align=center>
  <img width = '300' height ='300' src ="https://cdn.cxcat.com/wp-content/uploads/2018/12/1545701863-256.jpg?imageView2/2/w/1024#"/></div>
@@ -36,9 +36,6 @@
 1.摘要更新了插件,使用的话必须使用我修改的插件文件，否则出现首页空白的问题
 
 2.插件地址https://github.com/webzol/cxcatapi
-
-
-## 2019继续更新 忙完了上代码 请期待
 
 ## 2018年9月2次更新记录
 
