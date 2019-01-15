@@ -70,7 +70,7 @@
 
 5.增加了首页文章摘要
 
-# 为了让小白新手更好的使用小程序，以下由晗绪小童学做了详细的教程 
+#### 为了让小白新手更好的使用小程序，以下由晗绪小童学做了详细的教程 
 > https://www.kancloud.cn/hnxeguo/wpforwx
 <div align=center>
  <img width = '300' height ='300' src ="https://cxcat.com/wp-content/uploads/2018/07/un.jpg"/></div>
@@ -78,9 +78,9 @@
  [unear实验室小程序欣赏]
  </div>
 
-# 以下是wordpress小程序开源者——守望轩教程以及的历程
+#### 以下是wordpress小程序开源者一些更新记录
 
-# 功能清单：
+### 功能清单：
 
 1.缩略图的方式显示文章列表（首页，分类文章），包括显示文章分类和发布时间，加载分页。
 
@@ -117,112 +117,6 @@
 17.专题订阅。
 
 18.文章海报（分享微信朋友圈的卡片）。
-
-# 开源地址
-
-https://github.com/iamxjb/winxin-app-watch-life.net
-
-如果因为某些原因github无法访问，可以选择以下镜像地址：
-
-1.https://git.oschina.net/iamxjb/winxin-app-watch-life.net
-
-2.https://code.aliyun.com/iamxjb/winxin-app-watch-life.net
-
-3.https://coding.net/u/xjb/p/winxin-app-watch-life.net
-
-4.https://gitlab.com/xiajianbo/winxin-app-watch-life.net
-
-
-# 小程序访问微信二维码：
-
-![wordpress版微信小程序](https://www.watch-life.net/images/wordpressweixinapp430.jpg) 
-
-
-# 技术支持网站：https://www.watch-life.net
-
-
-# 小程序配套wordpress插件：
-
-本小程序完整使用需要配合我编写的wordpress插件wp-rest-api-for-app，才能完整使用，插件下载地址： https://github.com/iamxjb/wp-rest-api-for-app
-
-# 小程序配套赞赏（微信支付）功能服务端程序：
-
-本小程序赞赏功能需要配合我编写微信支付服务端php程序，才能使用，程序下载地址： https://github.com/iamxjb/weixin-app-wxpay
-
-# 开源协议：MIT
-
-# 技术支持微信：iamxjb
-
-![iamxjb](https://www.watch-life.net/images/iamxjbweixin.jpg) 
-
-# 安装使用说明文档
-
-<a href="https://www.watch-life.net/wordpress/weixin-app-install.html" target="_blank" rel="noopener">WordPress版微信小程序安装使用说明</a>
-
-
-# 程序开发系列文章
-
-<a href="https://www.watch-life.net/wordpress/weixin-connect-wordpress.html" target="_blank" rel="noopener">1.用微信小程序连接WordPress网站</a>
-
-<a href="https://www.watch-life.net/wordpress/wordpress-weixin-1-5.html" target="_blank" rel="noopener">2.WordPress版微信小程序1.5版本发布</a>
-
-<a href="https://www.watch-life.net/wordpress/wordpress-weixin-2.html" target="_blank" rel="noopener">3.WordPress版微信小程序2.0版本发布</a>
-
-<a href="https://www.watch-life.net/wordpress/wordpress-rest-api-weixin-weapp.html" target="_blank" rel="noopener">4.利用WordPress REST API 开发微信小程序从入门到放弃</a>
-
-<a href="https://www.watch-life.net/wechat/wordpress-weixin-2-1-5.html" target="_blank">5.WordPress版微信小程序2.1.5版发布</a></p>
-
-<a href="https://www.watch-life.net/wordpress/wordpress-weixin-2-1-8.html" target="_blank" rel="noopener">6.WordPress版微信小程序2.1.8版发布</a>
-
-<a href="https://www.watch-life.net/wordpress/wordpress-rest-api.html" rel="bookmark">WordPress版微信小程序开发系列(一)：WordPress REST API</a>
-
-<a href="https://www.watch-life.net/wordpress/wordpress-weixin-2-2-0.html" target="_blank">8.WordPress版微信小程序2.2.0版发布</a>
-
-
-<a href="https://www.watch-life.net/wordpress/wordpress-weixin-2-2-8.html" target="_blank">9.WordPress版微信小程序2.2.8版本发布</a>
-
-<a href="https://www.watch-life.net/wordpress/wordpress-weixin-app-faq.html" target="_blank">10.WordPress版微信小程序开发系列(二):安装使用问答</a>
-
-<a href="https://www.watch-life.net/wordpress/wordpress-weixin-2-4.html" target="_blank">11.WordPress版微信小程序2.4版发布</a>
-
-<a href="https://www.watch-life.net/wordpress/wordpress-weixin-2-6.html" target="_blank">12.WordPress版微信小程序2.6版发布</a>
-
-<a href="https://www.watch-life.net/wordpress/wordpress-weixin-3-0.html" target="_blank">13.WordPress版微信小程序3.0版发布</a>
-
-# 优秀WordPress版微信小程序推荐
-
-<a href="https://www.watch-life.net/wordpress/wordpress-weixin-app-for-you-1.html" target="_blank">优秀WordPress版微信小程序推荐(一)</a>
-
-<a href="https://www.watch-life.net/wordpress/wordpress-weixin-app-for-you-2.html" target="_blank">优秀WordPress版微信小程序推荐(二)</a>
-
-
-# 讨论微信群：
-
-由于微信群超过100人，无法再扫描二维码加入。如果你想加入，请先加我的微信：iamxjb ，我拉你入群。
-
-
-
-# 开源声明：
-
-1、本程序html转wxml的解析采用的是https://github.com/icindy/wxParse
-
-2.本程序有关es6-promise 部分代码参考 开源程序：https://github.com/cinoliu/-es6-promise
-
-
-在此对上述提供开源及创意表示致谢。
-
-
-# 捐赠赞赏：请微信扫描以下二维码。感谢您对我的支持，您的支持是我前进的动力
-
-![weixinpay](https://www.watch-life.net/images/2017/07/zsm400-github.jpg) 
-
-# WordPress微信小程序知识星球(小密圈)
-
-考虑到微信群里交流过于庞杂和碎片化，无法提供更专业的技术服务和知识分享，很多好的知识不能很好沉淀和积累，无法提供更好的分享价值，同时我也有意和兴趣相投人一起，创建一个wordpress和微信小程序的知识社区。基于此，我在“知识星球”里创建了一个“Wordpress微信小程序”的圈子，欢迎有兴趣的朋友和我一起创建一个有活力、创造力、有趣、有深度的知识社群。
-
-![zhishixingqiu](https://www.watch-life.net/images/2017/11/xiaomiquan300.jpg)
- 
-
 
 # 更新历史：
 
@@ -311,7 +205,6 @@ https://github.com/iamxjb/winxin-app-watch-life.net
 
 5.增加小程序分享
 
-升级的详细说明见： https://www.watch-life.net/wordpress/wordpress-weixin-2-html.html
 
 
 ## 日期：2017年5月15日
@@ -327,5 +220,3 @@ https://github.com/iamxjb/winxin-app-watch-life.net
 4.文章列表页添加发布时间。
 
 5.升级最新的微信小程序富文本解析组件wxParse（https://github.com/icindy/wxParse）
-
-升级的详细说明见：https://www.watch-life.net/wordpress/wordpress-weixin-1-5.html
