@@ -25,7 +25,7 @@ https://gitee.com/izol/cxcat
 # 拉你进群
 
 ## 小程序配套wordpress插件：
-本小程序完整使用需要配合原作者（imxjb）编写的wordpress插件wp-rest-api-for-app，才能完整使用，插件下载地址： https://github.com/iamxjb/wp-rest-api-for-app
+本小程序完整使用需要配合原作者（imxjb）编写的wordpress插件wp-rest-api-for-app，才能完整使用，插件下载地址： https://github.com/iamxjb/rest-api-to-miniprogram
 
 
 ##  注意问题
