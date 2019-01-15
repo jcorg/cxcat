@@ -1,24 +1,24 @@
-### 关于本小程序程序
+### 关于本小程序
 
 本次小程序的修改基于开源的wordpress小程序"守望轩"
 
 ![猫小镇小程序欣赏](https://cdn.cxcat.com/wp-content/uploads/2018/12/1545701863-256.jpg?imageView2/2/w/1024#)
 
-# WordPress版微信小程序 猫小镇开源地址
-# 个人网站
+### WordPress版微信小程序 猫小镇开源地址
+### 个人网站
 http://www.aihack.cn
 
-# 小程序ID：wxe61b785946958cc7
-# 欢迎添加更好的体验
+### 小程序ID：wxe61b785946958cc7
+### 欢迎添加更好的体验
 
-# git下载地址
+### git下载地址
 https://github.com/webzol/kit
-# 码云下载地址
+### 码云下载地址
 https://gitee.com/izol/cxcat
 
 
 
-# 小程序微信交流群
+### 小程序微信交流群
 
 ![Kit私人微信](http://pddtif2jb.bkt.clouddn.com/wp-content/uploads/2018/08/2018101114074192.jpeg?imageView2/2/w/500#)
 
