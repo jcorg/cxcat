@@ -2,7 +2,9 @@
 
 > 本次小程序的修改基于开源的wordpress小程序"守望轩",本着开源的精神会一直更新下去。感谢大家的支持，希望越做越好。
 
-![猫小镇小程序欣赏](https://cdn.cxcat.com/wp-content/uploads/2018/12/1545701863-256.jpg?imageView2/2/w/1024#)
+<div align=center>
+ ![猫小镇小程序欣赏](https://cdn.cxcat.com/wp-content/uploads/2018/12/1545701863-256.jpg?imageView2/2/w/1024#)
+ </div>
 
 # WordPress版微信小程序 猫小镇开源地址
 > https://github.com/webzol/cxcat
@@ -22,9 +24,9 @@
 
 
 # 小程序微信交流群
-
+<div align=center>
 ![Kit私人微信](http://pddtif2jb.bkt.clouddn.com/wp-content/uploads/2018/08/2018101114074192.jpeg?imageView2/2/w/500#)
-
+</div>
 
 # 微信群已满
 > (添加微信 83874696 )拉你进群
