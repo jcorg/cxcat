@@ -2,7 +2,7 @@
 
 > 本次小程序的修改基于开源的wordpress小程序"守望轩",本着开源的精神会一直更新下去。感谢大家的支持，希望越做越好。
 <div align=center>
- <img width = '150' height ='150' src ="https://cdn.cxcat.com/wp-content/uploads/2018/12/1545701863-256.jpg?imageView2/2/w/1024#"/></div>
+ <img width = '300' height ='300' src ="https://cdn.cxcat.com/wp-content/uploads/2018/12/1545701863-256.jpg?imageView2/2/w/1024#"/></div>
 <div align=center>
  ![猫小镇小程序欣赏]()
  </div>
@@ -26,10 +26,7 @@
 
 # 小程序微信交流群
 <div align=center>
-  <img width = '150' height ='150' src ="http://pddtif2jb.bkt.clouddn.com/wp-content/uploads/2018/08/2018101114074192.jpeg?imageView2/2/w/500#"/></div>
-<div align=center>
-[Kit私人微信]
-</div>
+  <img width = '300' height ='500' src ="http://pddtif2jb.bkt.clouddn.com/wp-content/uploads/2018/08/2018101114074192.jpeg?imageView2/2/w/500#"/></div>
 
 # 微信群已满
 > (添加微信 83874696 )拉你进群
