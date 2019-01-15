@@ -1,5 +1,5 @@
-## 关于本小程序
-#### 2019继续更新 忙完了上代码 请期待:star:
+## 关于本小程序 :cat:
+#### 2019继续更新 忙完了上代码 请期待:star::bowtie::earth_asia:
 > 本次小程序的修改基于开源的wordpress小程序"守望轩",本着开源的精神会一直更新下去。感谢大家的支持，希望越做越好。
 <div align=center>
  <img width = '300' height ='300' src ="https://cdn.cxcat.com/wp-content/uploads/2018/12/1545701863-256.jpg?imageView2/2/w/1024#"/></div>
