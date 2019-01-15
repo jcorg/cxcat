@@ -8,8 +8,10 @@
 ### 个人网站
 http://www.aihack.cn
 
-### 小程序ID：wxe61b785946958cc7
 ### 欢迎添加更好的体验
+
+小程序ID：wxe61b785946958cc7
+
 
 ### git下载地址
 https://github.com/webzol/kit
