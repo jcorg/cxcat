@@ -4,7 +4,7 @@
 <div align=center>
  <img width = '300' height ='300' src ="https://cdn.cxcat.com/wp-content/uploads/2018/12/1545701863-256.jpg?imageView2/2/w/1024#"/></div>
 <div align=center>
- ![猫小镇小程序欣赏]()
+ [猫小镇小程序欣赏]
  </div>
 
 # WordPress版微信小程序 猫小镇开源地址
@@ -26,7 +26,7 @@
 
 # 小程序微信交流群
 <div align=center>
-  <img width = '300' height ='500' src ="http://pddtif2jb.bkt.clouddn.com/wp-content/uploads/2018/08/2018101114074192.jpeg?imageView2/2/w/500#"/></div>
+  <img width = '320' height ='500' src ="http://pddtif2jb.bkt.clouddn.com/wp-content/uploads/2018/08/2018101114074192.jpeg?imageView2/2/w/500#"/></div>
 
 # 微信群已满
 > (添加微信 83874696 )拉你进群
