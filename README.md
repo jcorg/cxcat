@@ -26,7 +26,9 @@
 
 # 小程序微信交流群
 <div align=center>
-![Kit私人微信](http://pddtif2jb.bkt.clouddn.com/wp-content/uploads/2018/08/2018101114074192.jpeg?imageView2/2/w/500#)
+  <img width = '150' height ='150' src ="http://pddtif2jb.bkt.clouddn.com/wp-content/uploads/2018/08/2018101114074192.jpeg?imageView2/2/w/500#"/></div>
+<div align=center>
+[Kit私人微信]
 </div>
 
 # 微信群已满
